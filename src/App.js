@@ -7,6 +7,7 @@ import Experience from './Sections/Experience';
 import Education from './Sections/Education';
 import Projects from './Sections/Projects';
 import Certifications from './Sections/Certifications';
+import Footer from './Sections/Footer';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <Education/>
       <Projects/>
       <Certifications/>
+      <Footer/>
     </div>
   );
 }
