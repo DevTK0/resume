@@ -4,7 +4,7 @@ const puppeteer = require('puppeteer');
  const browser = await puppeteer.launch();
  const page = await browser.newPage();
  // go to page in resumeonly mode, wait for any network events to settle
- await page.goto("http://localhost:3000?resumeonly=true", {
+ await page.goto("http://localhost:3000", {
   waitUntil: "networkidle2"
  });
  // output to a local file
