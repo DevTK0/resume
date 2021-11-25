@@ -17,6 +17,7 @@
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",
+    "publish": "git subtree push --prefix build origin gh-pages",
     "pdf": "node pdf/generate-pdf.js",
     "eject": "react-scripts eject"
   },
