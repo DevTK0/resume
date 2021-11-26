@@ -10,7 +10,7 @@ import Footer from './Sections/Footer';
 
 function App() {
   return (
-    <div class="max-w-2xl mx-auto">
+    <div class="max-w-2xl sm:mx-auto mx-10">
       <Header/>
       <Skills/>
       <Experience/>
