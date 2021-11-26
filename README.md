@@ -1,6 +1,6 @@
-# My resume
+# My Resume
 
-Hi! I'm Terence, a full stack developer and this is my resume built in React with tailwind css.
+Hi! I'm Terence, a full stack developer and this is my resume built in React with Tailwind CSS.
 
 Access the site here:  
 https://piercestar.github.io/resume/
