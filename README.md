@@ -17,21 +17,21 @@ This project uses puppeteer to generate the PDF from the website. To generate th
 
 # Publishing the site
 
-For convenience, i've added a script to publish changes to the site. This
+For convenience, i've added a script to publish changes to the site.
 
 `npm run publish`
 
 The script will do the following:
-1) Generate a build using npm run build
-2) Commit the build changes
-3) Re-generate the PDF
-4) Commit the PDF changes
-5) Push the changes to main
-6) Push the build subtree to the gh-pages branch
-
-The site will be hosted through the gh-pages branch
+1) Generate a build using npm run build  
+2) Commit the build changes  
+3) Re-generate the PDF  
+4) Commit the PDF changes  
+5) Push the changes to main  
+6) Push the build subtree to the gh-pages branch  
+  
+The site will be hosted through the gh-pages branch.  
 
 # Favicon Logo
 
-If you would like to change the favicon logo, I generated it using the following website:  
+The favicon logo was generated using the following website:  
 https://favicon.io/favicon-generator/
