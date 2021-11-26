@@ -2,10 +2,10 @@
 
 Hi! I'm Terence, a full stack developer and this is my resume built in React with tailwind css.
 
-Access the site here:
+Access the site here:  
 https://piercestar.github.io/resume/
 
-You can also download the PDF version of the site here:
+You can also download the PDF version of the site here:  
 https://github.com/piercestar/resume/raw/main/terence_kong_resume.pdf
 
 
@@ -17,5 +17,5 @@ This project uses puppeteer to generate the PDF from the website. To generate th
 
 # Favicon Logo
 
-If you would like to change the favicon logo, I generated it using the following website:
+If you would like to change the favicon logo, I generated it using the following website:  
 https://favicon.io/favicon-generator/
