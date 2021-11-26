@@ -2,6 +2,8 @@
 
 Hi! I'm Terence, a full stack developer and this is my resume built in React with Tailwind CSS.
 
+![GitHub last commit](https://img.shields.io/github/last-commit/piercestar/resume?label=last%20update)
+
 Access the site here:  
 https://piercestar.github.io/resume/
 
