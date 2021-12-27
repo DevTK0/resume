@@ -13,9 +13,12 @@ https://github.com/piercestar/resume/raw/main/terence_kong_resume.pdf
 
 # Generate the PDF
 
-This project uses puppeteer to generate the PDF from the website. To generate the PDF, simple run the generate-pdf.js script in the pdf folder or alternatively, run the script in the package.json
+This project uses puppeteer to generate the PDF from the website. To generate the PDF, simple run the generate-pdf.js script in the pdf folder or alternatively, run the script in the package.json. Please make sure a local server is running first before running the script as the pdf will be generated based on the site in localhost:3000.
 
-`npm run pdf`
+```
+npm start
+npm run pdf
+```
 
 # Publishing the site
 
