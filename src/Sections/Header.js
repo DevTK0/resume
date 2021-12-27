@@ -9,10 +9,11 @@ function Header() {
   const github = "https://github.com/piercestar"
   const linkedin = "https://www.linkedin.com/in/terence-kong-02091a14a/"
   const gitlab = "https://gitlab.com/tko.developer.02"
+  const resume = "https://piercestar.github.io/resume/"
 
   return (
     <div class="mt-10 mb-10 text-center ">
-      <div class="text-5xl"><b> {name} </b></div>
+      <div class="text-5xl"><b><a href={resume}> {name} </a></b></div>
       <div class="text-center text-blue-400 font-semibold"> {title} </div>
       <div class="flex flex-wrap justify-center items-center align-middle space-x-1.5">
         <a href={callTo}>
