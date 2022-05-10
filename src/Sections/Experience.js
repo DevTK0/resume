@@ -8,7 +8,7 @@ function Experience() {
             <div class="font-bold"> MSI Global Pte Ltd </div>
             <div class="grid text-blue-400 text-xs font-light italic justify-items-end content-end"> LTA Bedok Campus </div>
             <div class="uppercase text-xs font-light"> Associate Consultant </div>
-            <div class="grid text-xs font-extralight italic justify-items-end"> Nov. 2020 - Present </div>
+            <div class="grid text-xs font-extralight italic justify-items-end"> Nov. 2020 - Apr. 2022 </div>
         </div>
         <ul class="mb-6 list-disc list-inside font-extralight">
             <li> Technical Lead for the BTS Skytrain backoffice fare collection system. (Java, Swing, Quartz Scheduler) </li>

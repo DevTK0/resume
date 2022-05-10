@@ -4,18 +4,18 @@ function Certifications() {
     return (
       <div>
         <SectionHeader title="Certifications" />
-        <div class="grid grid-cols-12">
-
-            <div class="col-span-10 font-bold"> NUS ISS </div>
-            <div class="col-span-2 text-blue-400 text-xs font-light italic justify-items-end content-end"> </div>
-            <div class="col-span-10 font-light"> NICF - Containers for deploying and scaling apps </div>
-            <div class="col-span-2 grid text-xs font-extralight italic justify-items-end"> Sep. 2019 </div>
-
-            {/* <div class="col-span-10 font-bold"> AWS </div>
-            <div class="col-span-2 text-blue-400 text-xs font-light italic justify-items-end content-end"> </div>
-            <div class="col-span-10 font-light"> Cloud Practitioner </div>
-            <div class="col-span-2 grid text-xs font-extralight italic justify-items-end"> Nov. 2021 </div> */}
+        <div class="mb-2 grid grid-cols-2">
+            <div class="font-bold"> AWS Certified Cloud Practitioner </div>
+            <div class="grid text-blue-400 text-xs font-light italic justify-items-end content-end"> </div>
+            <div class="uppercase text-xs font-light"> Amazon Web Services (AWS) </div>
+            <div class="grid text-xs font-extralight italic justify-items-end"> May. 2022 - May. 2025 </div>
         </div>
+        {/* <div class="mb-2 grid grid-cols-2">
+            <div class="font-bold"> AWS Certified Solutions Architect </div>
+            <div class="grid text-blue-400 text-xs font-light italic justify-items-end content-end"> </div>
+            <div class="uppercase text-xs font-light"> Amazon Web Services (AWS) </div>
+            <div class="grid text-xs font-extralight italic justify-items-end"> Jun. 2022 - Jun. 2025 </div>
+        </div> */}
       </div>
     );
   }
