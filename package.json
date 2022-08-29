@@ -17,7 +17,8 @@
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",
-    "publish": "npm run build; git add .; git commit -m 'Update build'; npm run pdf; git add .; git commit -m 'Update PDF'; git push -u origin main; git subtree push --prefix build origin gh-pages",
+    "publish-PDF": "npm run build; git add .; git commit -m 'Update build'; npm run pdf; git add .; git commit -m 'Update PDF'; git push -u origin main; git subtree push --prefix build origin gh-pages",
+    "publish": "npm run build; git add .; git commit -m 'Update build'; git push -u origin main; git subtree push --prefix build origin gh-pages",
     "pdf": "node pdf/generate-pdf.js",
     "eject": "react-scripts eject"
   },
