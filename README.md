@@ -5,10 +5,10 @@ Hi! I'm Terence, a full stack developer and this is my resume built in React wit
 ![GitHub last commit](https://img.shields.io/github/last-commit/DevTK0/resume?label=last%20update)
 
 Access the site here:  
-https://piercestar.github.io/resume/
+https://devtk0.github.io/resume/
 
 You can also download the PDF version of the site here:  
-https://github.com/piercestar/resume/raw/main/terence_kong_resume.pdf
+https://github.com/devtk0/resume/raw/main/terence_kong_resume.pdf
 
 # Generate the PDF
 
