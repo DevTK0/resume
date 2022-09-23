@@ -8,7 +8,7 @@ function Header() {
     const github = "https://github.com/DevTK0";
     const linkedin = "https://www.linkedin.com/in/terence-kong-02091a14a/";
     const gitlab = "https://gitlab.com/tko.developer.02";
-    const resume = "https://piercestar.github.io/resume/";
+    const resume = "https://devtk0.github.io/resume/";
 
     return (
         <div class="mt-10 mb-10 text-center ">
