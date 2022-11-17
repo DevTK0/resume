@@ -5,6 +5,24 @@ function Projects() {
         <div>
             <SectionHeader title="Projects" />
             <div class="font-bold">
+                <a href="#">00 Raiser</a>
+            </div>
+            <ul class="mb-4 list-disc list-inside font-extralight">
+                <li>
+                    A Discord bot for managing AWS instances of server based
+                    games such as Minecraft, V Rising and Core Keeper.
+                </li>
+                <li>
+                    Programmatically spins up ec2 instances for the game
+                    specified.
+                </li>
+                <li>
+                    On termination, automatically backs up the volume data into
+                    a snapshot and generates a new AMI image to be used in the
+                    next gaming session. (Eventbridge, Lambda, Python)
+                </li>
+            </ul>
+            <div class="font-bold">
                 <a href="https://gitlab.com/tko.developer.02/CakeChef">
                     CakeChef
                 </a>
